@@ -9,7 +9,7 @@ A machine learning project that classifies text messages (or emails) as either l
 
 ## 🚀 Live Demo
 
-**You can try the live application here:** [[Link to your deployed Streamlit App](https://spam-classifier-app-gn9hyu0n70l.streamlit.app/)]
+**You can try the live application here:** [[Link to the deployed Streamlit app](https://spam-classifier-app-gn9hyu0n70l.streamlit.app/)]
 
 
 
